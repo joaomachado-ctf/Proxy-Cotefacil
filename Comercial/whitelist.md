@@ -56,6 +56,7 @@
 * msidentity.com
 * msn.com
 * clarity.ms
+* office.com
 
 ###### --- Ecossistema AWS ---
 * amazonaws.com
@@ -123,6 +124,7 @@
 * mirror.uepg.br
 * keyserver.ubuntu.com
 * mirror.ufscar.br
+* launchpadcontent.net
 
 ###### --- Cotefácil ---
 * cotefacil.com
