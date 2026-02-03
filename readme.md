@@ -6,12 +6,12 @@ Esse repositório tem como objetivo armazenar uma copia das configurações das 
 
 Exemplo:
 
-+ ┣ 📂Comercial <br>
- +┃ ┣ 📜blacklist
- +┃ ┗ 📜whitelist
-+ ┣ 📂Suporte
- +┃ ┣ 📜blacklist
- +┃ ┗ 📜whitelist
++ 📂Comercial
+  + 📜blacklist
+  + 📜whitelist
++ 📂Suporte
+  +  📜blacklist
+  +  📜whitelist
 
 
 ### A Blacklist
