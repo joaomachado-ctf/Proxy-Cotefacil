@@ -1,0 +1,244 @@
+###### --- Dominios do GoTo / LogMeIn ---
+* akamaihd.net
+* dolbyvoice.com
+* expertcity.com
+* filepicker.io
+* filestackapi.com
+* getgo.com
+* getgocdn.com
+* getgoservices.com
+* getgoservices.net
+* gofastchat.com
+* goto.com
+* goto-rtc.com
+* goto.eu
+* gotoconference.com
+* gotomeet.at
+* gotomeet.me
+* gotomeeting.com
+* gotoroom.com
+* hvoice.net
+* internap.net
+* internapcdn.net
+* jive.com
+* jiveip.net
+* jmp.tw
+* joingotomeeting.com
+* launchdarkly.com
+* logme.in
+* logmein.com
+* logmein.eu
+* logmeininc.com
+* onjive.com
+* openvoice.com
+* personify.live
+* rtcfront.net
+* rtcprov.net
+* voximplant.com
+
+###### --- Dominios do Bitrix ---
+* bitrix.info
+* bitrix24.com
+* bitrix24.com.br
+* bitrix24.net
+* bitrix24.ru
+* br24.io
+
+###### --- Dominios do Anydesk ---
+* anydesk.com
+
+###### --- Consulta de CNPJ / Orgaos ---
+* cnpj.biz
+* cnpj.info
+* cnpja.com
+* fazenda.gov.br
+* bigdatacorp.com.br
+
+
+###### --- Pedidos Eletronicos / Distribuidoras ---
+* abcfarma.org.br
+* acripel.com.br
+* alfamedicamentos.com.br
+* aliardistribuidora.com.br
+* anbfarma.com.br
+* arcom.com.br
+* artpedidoweb.com.br
+* atualfbsbrasil.com.br
+* automatizasistemas.com.br
+* baratela.com.br
+* bateforte.com.br
+* bramedmedicamentos.com.br
+* chiesionline.com.br
+* compra-agora.com
+* comprafoodservice.com.br
+* comprecomache.com.br
+* dafarmaciadigital.com.br
+* difremel.com.br
+* digicert.com
+* dimed.com.br
+* diprofacil.com.br
+* dismap.com.br
+* distriam.com.br
+* distrimed.com.br
+* divamed.com.br
+* dp4.com.br
+* dpcnet.com.br
+* drogacenter.com.br
+* drogacenteronline.com
+* drogasul.med.br
+* egam.com.br
+* elite.com.br
+* emefarmaonline.com.br
+* emisminas.com.br
+* eurofarmaonline.com.br
+* f1farma.com.br
+* farmafoco.com.br
+* fbsbrasil.com.br
+* febrafar.com.br
+* fidelize.com.br
+* focofarmadistribuidora.com.br
+* focopdv-farmarcas.com.br
+* gauchafarma.com.br
+* girabrasil.com.br
+* granderio.com.br
+* grupobrf1.com
+* grupoemefarmaweb.com.br
+* grupomtf.com.br
+* grupoorgafarma.com.br
+* grupoorientefarma.com.br
+* gruposc.com.br
+* grupototal.com.br
+* hpcdistribuidora.com.br
+* hypera.com.br
+* ip-api.com
+* jkompras.com.br
+* jomargil.com.br
+* kleyhertzonline.com.br
+* laborsil.com.br
+* legrandonline.com.br
+* libbsfarma.com.br
+* luchefarma.com.br
+* cotefacil.net
+* martinsatacado.com.br
+* maxifarmaonline.com.br
+* mettadistribuidora.com
+* mgmedicamentos.com.br
+* n1farma.com.br
+* nazaria.com.br
+* neobras.com.br
+* nexfar.com.br
+* nilotozzo.com.br
+* novahg.com.br
+* omie.com.br
+* oniz.com.br
+* onlinesulmed.com.br
+* panpharma.com.br
+* peixoto.com.br
+* percomax.com.br
+* pharmalinkonline.com.br
+* pharmaclick.com.br
+* polydrogas.com.br
+* potiguar.com.br
+* procfit.com.br
+* profarma.com.br
+* prosperweb.com.br
+* psportal.com.br
+* qchik.com.br
+* raconecta.com.br
+* redefarmavip.com.br
+* resultwebvendas.com.br
+* riomeddistribuicao.com.br
+* riodrogs.com.br
+* rivershop.com.br
+* roge.com.br
+* scapol.com.br
+* servimed.com.br
+* servimedonline.com
+* solfarma.com.br
+* spfarmaonline.com
+* starita.com.br
+* stcruz.com.br
+* treemed.com.br
+* trfarma.com.br
+* tudofarma.com.br
+* unilider.com.br
+* unimarka.com.br
+* vilanova.com.br
+* visiondistribuidora.com.br
+
+###### --- Ecossistema Microsoft / Azure ---
+* aadrm.com
+* access-point.cloudmessaging.edge.microsoft.com
+* acompli.com
+* acompli.net
+* aka.ms
+* aspnetcdn.com
+* azure-apim.net
+* azure.com
+* azure.net
+* azureedge.net
+* azurerms.com
+* azurewebsites.net
+* bing.com
+* bing.net
+* cloud.microsoft
+* cloudappsecurity.com
+* edgesuite.net
+* firstpartyapps.oaspapps.com
+* getmicrosoftkey.com
+* live.com
+* live.net
+* lync.com
+* microsoft.com
+* microsoft365.com
+* microsoftazuread-sso.com
+* microsoftonline.com
+* microsoftonline-p.com
+* microsoftonline-p.net
+* microsoftstream.com
+* microsoftusercontent.com
+* msauth.net
+* msauthimages.net
+* msecnd.net
+* msedge.net
+* msftauth.net
+* msftauthimages.net
+* msftidentity.com
+* msidentity.com
+* msn.com
+* clarity.ms
+
+###### --- Ecossistema AWS ---
+* amazonaws.com
+* amazonwebservices.com
+* aws.amazon.com
+* awsstatic.com
+* awsapps.com
+* aws.dev
+* cloudfront.net
+* signin.aws
+* media-amazon.com
+
+
+###### --- WhatsApp ---
+* whatsapp.com
+* wa.me
+* whatsapp.net
+
+###### --- Domínios da 3cPlus ---
+* 3cplus.com.br
+
+###### --- zitausch ---
+* zitausch.com
+
+###### --- Recaptcha  / Google---
+* gstatic.com
+* recaptcha.net
+* google.com
+
+###### --- Spotify ---
+* spotify.com
+
+###### --- Ferramentas ---
+* chatgpt.com
+* datadoghq.com
