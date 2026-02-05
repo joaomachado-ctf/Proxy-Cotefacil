@@ -118,7 +118,6 @@
 * legrandonline.com.br
 * libbsfarma.com.br
 * luchefarma.com.br
-* cotefacil.net
 * martinsatacado.com.br
 * maxifarmaonline.com.br
 * mettadistribuidora.com
@@ -220,7 +219,6 @@
 * signin.aws
 * media-amazon.com
 
-
 ###### --- WhatsApp ---
 * whatsapp.com
 * wa.me
@@ -243,3 +241,8 @@
 ###### --- Ferramentas ---
 * chatgpt.com
 * datadoghq.com
+
+###### --- Cotefácil ---
+* cotefacil.com
+* cotefacil.online
+* cotefacil.net

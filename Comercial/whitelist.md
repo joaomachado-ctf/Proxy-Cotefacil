@@ -4,6 +4,7 @@
 * bitrix24.com.br
 * bitrix24.net
 * bitrix24.ru
+* br24.io
 
 ###### --- Dominios do Anydesk ---
 * anydesk.com
@@ -129,6 +130,7 @@
 ###### --- Cotefácil ---
 * cotefacil.com
 * cotefacil.online
+* cotefacil.net
 
 ###### --- Recaptcha ---
 * gstatic.com
