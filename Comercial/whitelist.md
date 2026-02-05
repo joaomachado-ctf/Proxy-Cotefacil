@@ -124,7 +124,7 @@
 * ubuntu.mti.mt.gov.br
 * mirror.uepg.br
 * keyserver.ubuntu.com
-* mirror.ufscar.br
+* ufscar.br
 * launchpadcontent.net
 
 ###### --- Cotefácil ---
