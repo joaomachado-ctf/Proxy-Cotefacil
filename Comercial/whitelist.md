@@ -114,16 +114,15 @@
 ###### --- Repositórios Linux ---
 * launchpad.net
 * ubuntu.com
-* dl.google.com
-* update.googleapis.com
-* dl.flathub.org
-* mirror.ufam.edu.br
+* google.com
+* googleapis.com
+* flathub.org
+* ufam.edu.br
 * sft.it.usp.br
-* ubuntu-archive.localweb.com.br
-* ubuntu.c3sl.ufpr.br
-* ubuntu.mti.mt.gov.br
+* localweb.com.br
+* c3sl.ufpr.br
+* mti.mt.gov.br
 * mirror.uepg.br
-* keyserver.ubuntu.com
 * ufscar.br
 * launchpadcontent.net
 

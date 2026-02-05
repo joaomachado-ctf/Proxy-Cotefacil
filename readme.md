@@ -14,7 +14,7 @@ Exemplo:
   +  📜whitelist
 
 
-### A Blacklist
+#### A Blacklist
 
 Para facilitar a configuração foi usada uma blacklist da The Université Toulouse (https://en.univ-toulouse.fr), pois além de possuir uma gama enorme de sites ela é atualizada com frequência. Abaixo será disponibilizado uma tabela com cada categoria disponível e uma breve descrição dela.
 <br>

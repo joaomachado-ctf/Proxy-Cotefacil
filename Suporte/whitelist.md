@@ -167,7 +167,6 @@
 
 ###### --- Ecossistema Microsoft / Azure ---
 * aadrm.com
-* access-point.cloudmessaging.edge.microsoft.com
 * acompli.com
 * acompli.net
 * aka.ms
