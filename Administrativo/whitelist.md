@@ -134,3 +134,6 @@ cotefacil.net
 ###### --- Recaptcha ---
 gstatic.com
 recaptcha.net
+
+###### --- Spotify ---
+spotify.com
