@@ -13,7 +13,6 @@ anydesk.com
 cnpj.biz
 cnpj.info
 cnpja.com
-fazenda.gov.br
 bigdatacorp.com.br
 omie.com.br
 canva.com
@@ -26,6 +25,8 @@ facebook.com
 jusbrasil.com.br
 escavador.com
 vagasbauru.com.br
+streamlit.app
+gov.br
 
 ###### --- WhatsApp ---
 whatsapp.com
