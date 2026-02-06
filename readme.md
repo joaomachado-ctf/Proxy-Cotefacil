@@ -90,10 +90,7 @@ Para facilitar a configuração foi usada uma blacklist da The Université Toulo
 
 #### Os grupos
 
-Depois de analisar quais seriam os acessos liberados para cada departamento busquei reduzuir ao máximo a quantidade de grupos para melhorar o processamento e o fluxo de trabalho do proxy, afim de evitar lentidão na rede. Atualmente há 3 grupos configurados:<br>
-**Administrativo**:
-É composto pelos os departamentos de Coodenação de vendas, Recurosos Humanos e Treinamento
-**Comercial**:
-Grupo para os operadores de vendas e Financeiro (cobrança)
-**Suporte**:
-Engloba os depatamentos de Suporte (Help Desk, Service Desk, Monitoramento e OL), Customer Success, Fornecedores e Parceiros, Novos Negócios
+Depois de analisar quais seriam os acessos liberados para cada departamento busquei reduzuir ao máximo a quantidade de grupos para melhorar o processamento e o fluxo de trabalho do proxy, afim de evitar lentidão na rede. Atualmente há 3 grupos configurados:
+* **Administrativo**: É composto pelos os departamentos de Coodenação de vendas, Recurosos Humanos e Treinamento
+* **Comercial**: Grupo para os operadores de vendas e Financeiro (cobrança)
+* **Suporte**: Engloba os depatamentos de Suporte (Help Desk, Service Desk, Monitoramento e OL), Customer Success, Fornecedores e Parceiros, Novos Negócios
