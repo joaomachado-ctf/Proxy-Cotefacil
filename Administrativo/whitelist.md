@@ -13,6 +13,7 @@ anydesk.com
 cnpj.biz
 cnpj.info
 cnpja.com
+fazenda.gov.br
 bigdatacorp.com.br
 omie.com.br
 canva.com
@@ -22,6 +23,8 @@ chatgpt.com
 linkedin.com
 instagram.com
 facebook.com
+fbcdn.net
+cdninstagram.com
 jusbrasil.com.br
 escavador.com
 vagasbauru.com.br
