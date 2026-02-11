@@ -58,6 +58,7 @@ msidentity.com
 msn.com
 clarity.ms
 office.com
+office.net
 
 ###### --- Ecossistema AWS ---
 amazonaws.com
