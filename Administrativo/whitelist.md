@@ -316,3 +316,6 @@ portaldocliente.online
 tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
+
+###### --- Compras ---
+mercadolivre.com.br
