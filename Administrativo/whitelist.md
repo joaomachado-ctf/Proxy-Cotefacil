@@ -319,3 +319,14 @@ iconecomercial.com.br
 
 ###### --- Compras ---
 mercadolivre.com.br
+
+##### --- Trello ---
+
+trello.com
+trello.service
+trellostatus.com
+butlerfortrello.com
+trellocdn.com
+atl-paas.net
+atlassian.com
+ss-inf.net
