@@ -74,7 +74,6 @@ comprafoodservice.com.br
 comprecomache.com.br
 dafarmaciadigital.com.br
 difremel.com.br
-digicert.com
 dimed.com.br
 diprofacil.com.br
 dismap.com.br
@@ -310,3 +309,10 @@ datadoghq.com
 cotefacil.com
 cotefacil.online
 cotefacil.net
+
+#### --- Autoridades Certificadoras ---
+
+digicert.com
+icpbrasil.gov.br
+letsencrypt.org
+sectigo.com

@@ -155,7 +155,6 @@ comprafoodservice.com.br
 comprecomache.com.br
 dafarmaciadigital.com.br
 difremel.com.br
-digicert.com
 dimed.com.br
 diprofacil.com.br
 dismap.com.br
@@ -309,3 +308,10 @@ portaldocliente.online
 tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
+
+#### --- Autoridades Certificadoras ---
+
+digicert.com
+icpbrasil.gov.br
+letsencrypt.org
+sectigo.com
