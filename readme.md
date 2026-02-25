@@ -1,18 +1,10 @@
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) ![Pfsense](https://badgen.net/badge/Pfsense%20CE%20/2.8.1?color=blue) ![E2Guardian](https://badgen.net/badge/E2Guardian/5.5.9?color=purple) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-## Objetivo
----
+# Proxy Cotefácil
+
+#### Objetivo
+
 Esse repositório tem como objetivo armazenar uma copia das configurações das ACLS do proxy da empresa. Para uma melhor visualização optei por separar cada departamento em uma pasta com sua respectiva blacklist e as exceções.
-
-Exemplo:
-
-+ 📂Comercial
-  + 📜blacklist
-  + 📜whitelist
-+ 📂Suporte
-  +  📜blacklist
-  +  📜whitelist
-
 
 #### A Blacklist
 
