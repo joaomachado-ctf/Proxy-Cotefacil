@@ -227,6 +227,7 @@ portaldocliente.online
 tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
+cosmospro.com.br
 
 ###### --- Ecossistema Microsoft / Azure ---
 aadrm.com
@@ -310,7 +311,7 @@ cotefacil.com
 cotefacil.online
 cotefacil.net
 
-#### --- Autoridades Certificadoras ---
+##### --- Autoridades Certificadoras ---
 
 digicert.com
 icpbrasil.gov.br

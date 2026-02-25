@@ -315,6 +315,7 @@ portaldocliente.online
 tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
+cosmospro.com.br
 
 ###### --- Compras ---
 mercadolivre.com.br
@@ -330,7 +331,7 @@ atl-paas.net
 atlassian.com
 ss-inf.net
 
-#### --- Autoridades Certificadoras ---
+##### --- Autoridades Certificadoras ---
 
 digicert.com
 icpbrasil.gov.br

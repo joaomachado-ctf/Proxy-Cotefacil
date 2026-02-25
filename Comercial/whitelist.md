@@ -308,8 +308,9 @@ portaldocliente.online
 tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
+cosmospro.com.br
 
-#### --- Autoridades Certificadoras ---
+##### --- Autoridades Certificadoras ---
 
 digicert.com
 icpbrasil.gov.br
