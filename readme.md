@@ -82,7 +82,11 @@ Para facilitar a configuração foi usada uma blacklist da The Université Toulo
 
 #### Os grupos
 
-Depois de analisar quais seriam os acessos liberados para cada departamento busquei reduzuir ao máximo a quantidade de grupos para melhorar o processamento e o fluxo de trabalho do proxy, afim de evitar lentidão na rede. Atualmente há 3 grupos configurados:
+Depois de analisar quais seriam os acessos liberados para cada departamento busquei reduzuir ao máximo a quantidade de grupos para melhorar o processamento e o fluxo de trabalho do proxy, afim de evitar lentidão na rede. Atualmente há 3 grupos configurados para o prédio do Jardim Contorno:
 * **Administrativo**: É composto pelos os departamentos de Coodenação de vendas, Recurosos Humanos e Treinamento
 * **Comercial**: Grupo para os operadores de vendas e Financeiro (cobrança)
 * **Suporte**: Engloba os depatamentos de Suporte (Help Desk, Service Desk, Monitoramento e OL), Customer Success, Fornecedores e Parceiros, Novos Negócios
+E 3 para o prédio da Av. Duque de Caxias:
+* **Desenvolvimeto**: É o grupo padrão para o desenvolvimento, posssui 2 variações, uma com acesso ao WhatsApp Web e outra com acesso ao Linkedin
+* **Desenvolvimeto_WhatsApp**: Possui as mesmas configurações de acesso do grupo Desenvolvimento mas tem permissão de acesso ao WhatsApp
+* **Desenvolvimeto_Linkedin**: Possui as mesmas configurações de acesso do grupo Desenvolvimento mas tem permissão de acesso ao Linkedin
