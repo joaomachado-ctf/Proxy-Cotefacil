@@ -11,15 +11,15 @@ Esse repositório tem como objetivo armazenar uma copia das configurações das 
 
 * **Administrativo**
   * [Whitelist](Administrativo/whitelist.md?plain=1)
-  * [Blacklist(Categorias)](Administrativo/blacklist.md)
+  * [Blacklist(Categorias)](Administrativo/blacklist.md?plain=1)
 
 * **Comercial**
-  * [Whitelist](Comercial/whitelist.md)
-  * [Blacklist(Categorias)](Comercial/blacklist.md)
+  * [Whitelist](Comercial/whitelist.md?plain=1)
+  * [Blacklist(Categorias)](Comercial/blacklist.md?plain=1)
 
 * **Desenvolvimento**
-  * [Whitelist](Desenvolvimento/whitelist.md)
-  * [Blacklist(Categorias)](Desenvolvimento/blacklist.md) 
+  * [Whitelist](Desenvolvimento/whitelist.md?plain=1)
+  * [Blacklist(Categorias)](Desenvolvimento/blacklist.md?plain=1) 
 
 #### A Blacklist
 
