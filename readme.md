@@ -6,6 +6,21 @@
 
 Esse repositório tem como objetivo armazenar uma copia das configurações das ACLS do proxy da empresa. Para uma melhor visualização optei por separar cada departamento em uma pasta com sua respectiva blacklist e as exceções.
 
+#### Acesso rápido
+**OBS.:** Para melhor visualização no GitHub mude para o modo Code
+
+* **Administrativo**
+  * [Whitelist](Administrativo/whitelist.md)
+  * [Blacklist(Categorias)](Administrativo/blacklist.md)
+
+* **Comercial**
+  * [Whitelist](Comercial/whitelist.md)
+  * [Blacklist(Categorias)](Comercial/blacklist.md)
+
+* **Desenvolvimento**
+  * [Whitelist](Desenvolvimento/whitelist.md)
+  * [Blacklist(Categorias)](Desenvolvimento/blacklist.md) 
+
 #### A Blacklist
 
 Para facilitar a configuração foi usada uma blacklist da The Université Toulouse (https://en.univ-toulouse.fr), pois além de possuir uma gama enorme de sites ela é atualizada com frequência. Abaixo será disponibilizado uma tabela com cada categoria disponível e uma breve descrição dela.
