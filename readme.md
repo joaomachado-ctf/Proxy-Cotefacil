@@ -10,7 +10,7 @@ Esse repositório tem como objetivo armazenar uma copia das configurações das 
 **OBS.:** Para melhor visualização no GitHub mude para o modo Code
 
 * **Administrativo**
-  * [Whitelist](Administrativo/whitelist.md)
+  * [Whitelist](Administrativo/whitelist.md?plain=1)
   * [Blacklist(Categorias)](Administrativo/blacklist.md)
 
 * **Comercial**
