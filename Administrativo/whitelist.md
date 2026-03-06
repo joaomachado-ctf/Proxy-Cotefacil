@@ -130,6 +130,7 @@ voximplant.com
 
 ###### --- Domínios da 3cPlus ---
 3cplus.com.br
+3c.plus
 
 ###### --- Cotefácil ---
 cotefacil.com
