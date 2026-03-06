@@ -290,6 +290,7 @@ whatsapp.net
 
 ###### --- Domínios da 3cPlus ---
 3cplus.com.br
+3c.plus
 
 ###### --- zitausch ---
 zitausch.com

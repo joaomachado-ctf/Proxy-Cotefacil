@@ -21,6 +21,9 @@ ttsmaker.com
 ilovepdf.com
 chatgpt.com
 linkedin.com
+licdn.com
+slideshare.net
+lnkd.in
 instagram.com
 facebook.com
 fbcdn.net
@@ -130,6 +133,7 @@ voximplant.com
 
 ###### --- Domínios da 3cPlus ---
 3cplus.com.br
+3c.plus
 
 ###### --- Cotefácil ---
 cotefacil.com

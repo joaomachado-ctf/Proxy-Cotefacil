@@ -111,6 +111,7 @@ voximplant.com
 
 ###### --- Domínios da 3cPlus ---
 3cplus.com.br
+3c.plus
 
 ###### --- Repositórios Linux ---
 launchpad.net
