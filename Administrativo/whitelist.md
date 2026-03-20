@@ -341,3 +341,6 @@ digicert.com
 icpbrasil.gov.br
 letsencrypt.org
 sectigo.com
+
+##### --- Globo ---
+globo.com
