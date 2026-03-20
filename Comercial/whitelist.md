@@ -137,6 +137,9 @@ cotefacil.net
 gstatic.com
 recaptcha.net
 
+##### --- Mozilla ---
+mozilla.org
+
 ###### --- Pedidos Eletronicos / Distribuidoras ---
 abcfarma.org.br
 acripel.com.br
