@@ -344,3 +344,7 @@ sectigo.com
 
 ##### --- Globo ---
 globo.com
+
+#### --- Youtube ---
+youtube.com
+googlevideo.com
