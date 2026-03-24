@@ -59,3 +59,7 @@
 * update domains
 * vpn domains
 * warez domains
+
+#### Domínios banidos
+
+kick.com
