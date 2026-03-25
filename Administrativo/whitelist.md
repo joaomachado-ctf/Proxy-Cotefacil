@@ -348,3 +348,6 @@ globo.com
 #### --- Youtube ---
 youtube.com
 googlevideo.com
+
+### --- Mozzila ---
+mozilla.org
