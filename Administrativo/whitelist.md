@@ -33,6 +33,7 @@ escavador.com
 vagasbauru.com.br
 streamlit.app
 gov.br
+apptuts.bio
 
 ###### --- WhatsApp ---
 whatsapp.com
