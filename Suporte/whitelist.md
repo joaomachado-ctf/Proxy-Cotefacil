@@ -271,6 +271,7 @@ msn.com
 clarity.ms
 office.com
 office.net
+windowsupdate.com
 
 ###### --- Ecossistema AWS ---
 amazonaws.com
