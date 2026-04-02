@@ -212,7 +212,6 @@ neobras.com.br
 nexfar.com.br
 nilotozzo.com.br
 novahg.com.br
-omie.com.br
 oniz.com.br
 onlinesulmed.com.br
 panpharma.com.br
