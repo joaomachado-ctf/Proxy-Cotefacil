@@ -267,7 +267,6 @@ msftauth.net
 msftauthimages.net
 msftidentity.com
 msidentity.com
-msn.com
 clarity.ms
 office.com
 office.net
