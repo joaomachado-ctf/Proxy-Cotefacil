@@ -312,6 +312,7 @@ tendaatacado.com.br
 lojagrupototal.com.br
 iconecomercial.com.br
 cosmospro.com.br
+lojagrupototal.com.br
 
 ##### --- Autoridades Certificadoras ---
 
