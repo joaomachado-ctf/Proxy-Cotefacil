@@ -320,7 +320,3 @@ digicert.com
 icpbrasil.gov.br
 letsencrypt.org
 sectigo.com
-
-###### --- Fastway---
-fastway.com.br
-fastssl.com.br
