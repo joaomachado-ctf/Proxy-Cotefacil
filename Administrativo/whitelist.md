@@ -352,3 +352,6 @@ googlevideo.com
 
 ### --- Mozzila ---
 mozilla.org
+
+### --- Vivo ---
+vivo.com.br
