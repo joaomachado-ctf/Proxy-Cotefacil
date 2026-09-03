@@ -320,3 +320,8 @@ digicert.com
 icpbrasil.gov.br
 letsencrypt.org
 sectigo.com
+
+###### --- WhatsApp ---
+whatsapp.com
+wa.me
+whatsapp.net
