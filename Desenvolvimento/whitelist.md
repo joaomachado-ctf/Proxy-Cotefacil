@@ -323,5 +323,3 @@ novasd-rac.ddns.net
 whatsapp.com
 wa.me
 whatsapp.net
-
-##### --- Linkedin --- (Exclusivo do grupo do grupo com permissão de acesso ao Linkedin)

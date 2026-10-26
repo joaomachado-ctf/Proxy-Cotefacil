@@ -104,4 +104,3 @@ Depois de analisar quais seriam os acessos liberados para cada departamento busq
 E 3 para o prédio da Av. Duque de Caxias:
 * **Desenvolvimeto**: É o grupo padrão para o desenvolvimento, posssui 2 variações, uma com acesso ao WhatsApp Web e outra com acesso ao Linkedin
 * **Desenvolvimeto_WhatsApp**: Possui as mesmas configurações de acesso do grupo Desenvolvimento mas tem permissão de acesso ao WhatsApp
-* **Desenvolvimeto_Linkedin**: Possui as mesmas configurações de acesso do grupo Desenvolvimento mas tem permissão de acesso ao Linkedin
