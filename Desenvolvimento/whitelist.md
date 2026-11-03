@@ -243,7 +243,7 @@ cloudfront.net
 signin.aws
 media-amazon.com
 amazontrust.com
-
+amazon.com
 ###### --- zitausch ---
 zitausch.com
 
@@ -318,6 +318,14 @@ fortinet.com
 proxyscrape.com
 lum-lpm.com
 novasd-rac.ddns.net
+anthropic.com
+claude.com
+claude.ai
+
+##### --- Jira ---
+atlassian.net
+atlassian.com
+atl-paas.net
 
 ###### --- WhatsApp --- (Exclusivo do grupo com permissão de acesso ao WhatsApp)
 whatsapp.com
