@@ -58,3 +58,12 @@ tricheur_pix domains
 update domains
 vpn domains
 warez domains
+
+### URL Banidas
+
+contasvip.com.br
+ligamagic.com.br
+doubleclick.net
+rngdle.com
+skyscrapercity.com
+inv.nadeko.net
